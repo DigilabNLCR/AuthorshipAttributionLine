@@ -1,0 +1,3 @@
+[submodule "AuthorGuesser"]
+	path = AuthorGuesser
+	url = https://github.com/DigilabNLCR/AuthorGuesser.git
