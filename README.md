@@ -22,10 +22,11 @@ This project is main part of ongoing initiative to establish productive ML envir
 | ---- | -------- | ------ |
 | Automatised workflow | CRON + Authorguesser | https://github.com/DigilabNLCR/AuthorGuesser |
 | Main ML Library | Scikit-learn | https://scikit-learn.org/ |
+| Python version | 3.9 | https://www.python.org/downloads/release/python-390/ |
 | Data Integration | National digital library of the Czech Republic | https://ndk.cz/ |
 | Preprocessing Integration | UDPipe | https://lindat.mff.cuni.cz/services/udpipe/ |
-| Monitoring | Netdata (+Zabbix)| https://github.com/netdata/netdata |
-| Operation System | Ubuntu 22.04 LTS| https://releases.ubuntu.com/22.04/ |
+| Monitoring | Htop, Netdata (+Zabbix)| https://github.com/netdata/netdata |
+| Operation System | Centos 7.9 | EOL 1/2 2024, https://www.centos.org/download/ |
 | GPU | NVidia Tesla V100S - 32GB | DP 8,2 TFLOPS / SP 16,4 TFLOPS |
 | Server |1× SUPERMICRO 1U GPU server | LGA3647, INTEL Xeon Silver 4216 (16-core) 2.1GHZ, 64 GB RAM, 3840 GB SSD |
 
