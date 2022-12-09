@@ -5,7 +5,8 @@ This project is main part of ongoing initiative to establish productive ML envir
 
 ## Organisational and technical workflow model (BPMN)
 
-![WFDigiLabOrgandTech](https://user-images.githubusercontent.com/25201690/205007785-6ee32a6b-1217-4309-9cd3-daf6c58b160c.png)
+![AuthorLineWF rv](https://user-images.githubusercontent.com/25201690/206743941-be281d0e-3dcf-45c9-bf19-ebaf46884151.png)
+
 
 ## Running model(s)
 
