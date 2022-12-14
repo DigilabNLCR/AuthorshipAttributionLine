@@ -53,7 +53,10 @@ This project is main part of ongoing initiative to establish productive ML envir
 ## **More**
 More information about DigiLab: https://digilab.nkp.cz/
 
-# Using AuthorGuesse
+# Using AuthorGuesser
+- See https://github.com/DigilabNLCR/AuthorGuesser for scripts and more info.
+- The models are trained for guessing 23 authors (see https://github.com/DigilabNLCR/AuthorGuesser/blob/main/training/dataset_concordances.ipynb for concordances and training data overview)
+
 ## How to use the guessing script
 Gerenal info:
 - script: https://github.com/DigilabNLCR/AuthorGuesser/blob/main/authorguesser.py
