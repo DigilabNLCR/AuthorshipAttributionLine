@@ -51,10 +51,12 @@ This project is main part of ongoing initiative to establish productive ML envir
 
 
 ## **More**
-More information about DigiLab: https://digilab.nkp.cz/ that also includes necessary scripts.
+More information about DigiLab: https://digilab.nkp.cz/
 
-### How to use the guessing script
+# Using AuthorGuesse
+## How to use the guessing script
 Gerenal info:
+- script: https://github.com/DigilabNLCR/AuthorGuesser/blob/main/authorguesser.py
 - You can either use default settings that work with these directories:
     - texts_to_guess
     - models
@@ -85,8 +87,8 @@ Gerenal info:
     - Result are also save in "guessed_files" direcotry, JSON file 'results.json'
         - only the basic info is presented in this file.
 
-### Training new models
-- In the directory "training", you can find a script that facilitates trainning of the models
+## Training new models
+- In the directory "training" (https://github.com/DigilabNLCR/AuthorGuesser/tree/main/training), you can find a script that facilitates trainning of the models
 - In addition to the scrip, you also need a dataset for training
 - to run the script, you need to provide following aguments:
     - required arguments:
